@@ -2,7 +2,7 @@
 
 A modern, fully responsive landing page for a fictional project-management product.
 
-**Live demo:** _coming soon_
+**Live demo:** https://taskflow-landing-page.onrender.com
 
 ## Features
 - Sticky navbar with mobile menu
