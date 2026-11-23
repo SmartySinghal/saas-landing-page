@@ -1,5 +1,7 @@
 # TaskFlow – SaaS Landing Page (Angular 22 + Tailwind CSS)
 
+![Screenshot](docs/screenshot.jpg)
+
 A modern, fully responsive landing page for a fictional project-management product.
 
 **Live demo:** https://taskflow-landing-page.onrender.com
